@@ -30,7 +30,7 @@ class DiscoverViewController: UIViewController {
             searchController.searchResultsUpdater = self
             searchController.hidesNavigationBarDuringPresentation = true
             searchController.dimsBackgroundDuringPresentation = false
-            searchController.searchBar.scopeButtonTitles = ["All", "Potburners", "Recipes"]
+            searchController.searchBar.scopeButtonTitles = ["All", "Test1", "Test2"]
 
             //searchController.searchBar.delegate = self
             
